@@ -1,0 +1,15 @@
+{
+  "name": "detraining",
+  "version": "1.0.0",
+  "main": "path/to/main.css",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "fancytree": "2.19.0",
+    "jquery.fancytree": "fancytree#2.19.0",
+    "ui-contextmenu": "1.13.0"
+  },
+  "devDependencies": {}
+}
